@@ -1,4 +1,4 @@
 def square_array(array) do
-  squares the numbers
+  'squares the |numbers|'
   
 end
